@@ -1,6 +1,7 @@
 package com.locationgame;
 
 import com.facebook.react.ReactActivity;
+import com.onradar.react.RNRadarPackage;
 
 public class MainActivity extends ReactActivity {
 

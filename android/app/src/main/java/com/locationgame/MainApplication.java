@@ -9,6 +9,9 @@ import com.facebook.react.ReactPackage;
 import com.facebook.react.shell.MainReactPackage;
 import com.facebook.soloader.SoLoader;
 import com.onradar.sdk.Radar;
+import com.onradar.sdk.RadarCallback;
+import com.onradar.sdk.model.RadarEvent;
+import com.onradar.sdk.model.RadarUser;
 
 import java.util.Arrays;
 import java.util.List;
